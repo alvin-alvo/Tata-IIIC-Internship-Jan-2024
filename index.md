@@ -7,5 +7,5 @@
   * tinkercad **link**
   * github
   
-. second day
+2. second day
 
