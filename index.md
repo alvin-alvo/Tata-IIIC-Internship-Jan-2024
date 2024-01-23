@@ -2,3 +2,10 @@
 
 ## Alvin Binoy
 
+1. first day
+  * robotics
+  * tinkercad **link**
+  * github
+  
+. second day
+
