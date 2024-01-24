@@ -4,10 +4,13 @@
 
 
 
-1. first day
-  * robotics
-  * tinkercad 
-  * github
+1. **First Day**
+  * Basics of Robotics
+  * Tinkercad 
+  * Github - Introduction to Markdown
   
-2. second day
+2. **Second Day**
+   * Operating a pick and place robot
+   * Operating a welding robot
+   * Intoduction to Creo
 
