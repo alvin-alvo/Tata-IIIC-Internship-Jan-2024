@@ -5,9 +5,9 @@
 
 
 1. **First Day**
-  * Basics of Robotics
-  * Tinkercad 
-  * Github - Introduction to Markdown
+   * Basics of Robotics
+   * Tinkercad 
+   * Github - Introduction to Markdown
   
 2. **Second Day**
    * Operating a pick and place robot
