@@ -14,3 +14,6 @@
    * Operating a welding robot
    * Intoduction to Creo
 
+3. **Third Day**
+   * Welding practice on a welding robot
+
