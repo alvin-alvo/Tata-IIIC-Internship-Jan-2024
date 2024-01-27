@@ -3,17 +3,17 @@
 ##### TATA- Jyothi IIIC is organizing a Week long internship program aimed at providing insights into 3D printing and designing, Industrial Robotics, Injection molding, and a one-day industrial visit.
 
 
-### First Day
+### Day 1
    * Basics of Robotics
    * Tinkercad 
-   * Github - Introduction to Markdown
+   * **Github** - Introduction to Markdown
   
-### Second Day
+### Day 2
    * Operating a pick and place robot
    * Operating a welding robot
    * Intoduction to **Creo** - a 3D designing software
 
-### Third Day
+### Day 3
    * Welding practice on a welding robot
    * Building various parts of ball bearing and assembling it using **Creo**
 
