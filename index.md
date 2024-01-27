@@ -21,4 +21,4 @@
    * Work from home day of creating a github post about the internship
 
 ### Day 5
-   * Industrial visit at Kallippadam - Vijaya Polymers and The Metal Industries.
+   * Industrial visit at Kallippadam - **Vijaya Polymers** and **The Metal Industries**
