@@ -11,8 +11,9 @@
 ### Second Day
    * Operating a pick and place robot
    * Operating a welding robot
-   * Intoduction to Creo
+   * Intoduction to **Creo** - a 3D designing software
 
 ### Third Day
    * Welding practice on a welding robot
+   * Building various parts of ball bearing and assembling it using **Creo**
 
