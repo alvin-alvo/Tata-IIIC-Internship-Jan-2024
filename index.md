@@ -18,7 +18,7 @@
    * Building various parts of ball bearing and assembling it using **Creo**
 
 ### Day 4
-   * Work from home day of building a github post about the internship
+   * Work from home day of creating a github post about the internship
 
 ### Day 5
    * Industrial visit
