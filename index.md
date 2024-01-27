@@ -17,3 +17,4 @@
    * Welding practice on a welding robot
    * Building various parts of ball bearing and assembling it using **Creo**
 
+![](https://images.app.goo.gl/fXi3tnEMcx6gKvg49)
