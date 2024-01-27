@@ -17,4 +17,8 @@
    * Welding practice on a welding robot
    * Building various parts of ball bearing and assembling it using **Creo**
 
-![gif](https://images.app.goo.gl/KdqhJnXz1a9UWXB6A.gif)
+### Day 4
+   * Work from home day of building a github post about the internship
+
+### Day 5
+   * Industrial visit
