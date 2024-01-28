@@ -11,6 +11,7 @@
 ### Day 2
    * Operating a pick and place robot
    * Operating a welding robot
+   * ![](/MTEC CertificateAbsorbFields.pdf)
    * Intoduction to **Creo** - a 3D designing software
 
 ### Day 3
