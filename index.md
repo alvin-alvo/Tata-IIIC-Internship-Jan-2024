@@ -1,17 +1,18 @@
 # Tata IIIC Internship January 2024
 
-##### TATA- Jyothi IIIC is organizing a Week long internship program aimed at providing insights into 3D printing and designing, Industrial Robotics, Injection molding, and a one-day industrial visit.
+##### TATA- Jyothi IIIC organized  a Week long internship program aimed at providing insights into 3D printing and designing, Industrial Robotics, Injection molding, and a one-day industrial visit.
 
 
 ### Day 1
    * Basics of Robotics
+   * Introduction to Industrial Robots
    * Tinkercad 
    * **Github** - Introduction to Markdown
   
 ### Day 2
    * Operating a pick and place robot
    * Operating a welding robot
-   * ![](/MTEC CertificateAbsorbFields.pdf)
+   * Specialized training program in **Yaskawa Safety Principles**
    * Intoduction to **Creo** - a 3D designing software
 
 ### Day 3
@@ -19,7 +20,7 @@
    * Building various parts of ball bearing and assembling it using **Creo**
 
 ### Day 4
-   * Work from home day of creating a github post about the internship
+   * Work from home day of creating a github post documenting the internship
 
 ### Day 5
    * Industrial visit at Kallippadam - **Vijaya Polymers** and **The Metal Industries**
