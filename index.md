@@ -13,6 +13,7 @@
    * Operating a pick and place robot
    * Operating a welding robot
    * Specialized training program in **Yaskawa Safety Principles**
+     ![certificate](SmartSelect_20240129_074245_Drive.jpg)
    * Intoduction to **Creo** - a 3D designing software
 
 ### Day 3
