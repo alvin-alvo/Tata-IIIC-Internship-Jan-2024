@@ -25,3 +25,11 @@
 
 ### Day 5
    * Industrial visit at Kallippadam - **Vijaya Polymers** and **The Metal Industries**
+   * Some photographs from the Industrial Visit
+     ![](IMG-20240127-WA0078.jpg)
+     ![](IMG-20240128-WA0032.jpg)
+     ![](IMG-20240128-WA0034.jpg)
+     ![](IMG-20240128-WA0050.jpg)
+     ![](IMG-20240128-WA0063.jpg)
+     ![](IMG-20240128-WA0067.jpg)
+     ![]()
